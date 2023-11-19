@@ -21,3 +21,4 @@ Certifique-se de ter os seguintes itens instalados antes de começar:
    ```bash
    git clone https://github.com/WillyGabrielVilela/escribo-desafio.git
    cd escribo-desafio
+   code .

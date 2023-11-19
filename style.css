@@ -1,0 +1,121 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Nunito', sans-serif;
+    background-image: url(/assets/sky.png);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+
+}
+
+h1 {
+    color: #edf000;
+}
+
+label {
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    width: 400px;
+    height: 500px;
+    background: transparent;
+    border: 10px solid #333;
+    border-radius: 20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    background-color: #1b9dff;
+}
+
+img {
+    margin-top: 10px;
+    width: 50%;
+}
+
+.content {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    /* height: 100%; */
+    padding: 16px;
+    background-color: #1b9dff;
+    border-radius: 0 0 15px 15px;
+    overflow: hidden;
+}
+
+input {
+    border-radius: 4px;
+    border-style: none;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.08);
+    margin-top: 16px;
+    font-size: 16px;
+    padding: 8px 8px;
+    transition: 0.08s;
+    outline: none;
+}
+
+button {
+    margin-top: 16px;
+    border-radius: 4px;
+    padding: 8px 8px;
+    background-color: #93d64b;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.04);
+
+    font-weight: bold;
+    color: white;
+    font-size: 16px;
+    border-style: none;
+    text-align: center;
+
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+button:hover {
+    background-color: #6cd000;
+}
+
+.home-button {
+    position: absolute;
+    bottom: 10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 30px;
+    height: 30px;
+    background-color: #333;
+    border-radius: 50%;
+    
+}
+
+.sucess {
+    margin-top: 16px;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.sucess span{
+    font-size: 36px;
+    color: #6cd000;
+}
+
+.error {
+    margin-top: 24px;
+    color: red;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.mascot {
+    width: 70px;
+}

@@ -26,14 +26,14 @@ Certifique-se de ter os seguintes itens instalados antes de começar:
    code .
    ```
 2. **Abra Seu Projeto no Visual Studio Code**
-3. **Botão "Go Live":**
-No canto inferior direito do Visual Studio Code, você verá a opção "Go Live" na barra de status.
+3. **Botão "Go Live":** <br/>
+No canto inferior direito do Visual Studio Code, você verá a opção "Go Live" na barra de status. <br/>
 Clique no botão "Go Live".
-4. **Navegue Pelo Projeto:**
-O Live Server abrirá automaticamente seu projeto no navegador padrão.
+4. **Navegue Pelo Projeto:** <br/>
+O Live Server abrirá automaticamente seu projeto no navegador padrão. <br/>
 O endereço local será algo como http://127.0.0.1:5500/.
-5. **Verifique no Navegador:**
-Verifique se as imagens e o conteúdo estão sendo exibidos corretamente no navegador.
+5. **Verifique no Navegador:** <br/>
+Verifique se as imagens e o conteúdo estão sendo exibidos corretamente no navegador. <br/>
 Caso ocorra algum problema o link do Deploy esta nesse READ.me
 ## 🚀 Deploy
 <a href="https://escribojs.vercel.app/">Link do Deploy para ver a aplicação no ar e poder testar.</a>

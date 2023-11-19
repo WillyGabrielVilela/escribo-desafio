@@ -22,3 +22,6 @@ Certifique-se de ter os seguintes itens instalados antes de começar:
    git clone https://github.com/WillyGabrielVilela/escribo-desafio.git
    cd escribo-desafio
    code .
+
+## 🚀 Deploy
+<a href="https://escribojs.vercel.app/">Link do Deploy para ver a aplicação no ar e poder testar.</a>
